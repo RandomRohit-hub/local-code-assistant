@@ -133,7 +133,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
+
 
 Would you also like me to:
 - Generate a `requirements.txt` from your code?
